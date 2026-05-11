@@ -1458,6 +1458,10 @@ button {
 }
 
 @media(max-width:768px) {
+   .container {
+      padding: 0 16px
+   }
+
    .section {
       padding: 72px 0
    }
@@ -1483,7 +1487,7 @@ button {
 
    .nav-links a {
       color: rgba(255, 255, 255, .7) !important;
-      font-size: 1rem
+      font-size: 1.1rem
    }
 
    .nav-hamburger {
@@ -1495,11 +1499,25 @@ button {
    }
 
    .hero-btns {
-      flex-direction: column
+      flex-direction: column;
+      width: 100%
+   }
+
+   .hero-btns .btn {
+      width: 100%;
+      justify-content: center
+   }
+
+   .hero-scroll {
+      display: none
    }
 
    .stats-grid {
       grid-template-columns: repeat(2, 1fr)
+   }
+
+   .stat {
+      padding: 24px 16px
    }
 
    .stat:not(:last-child)::after {
@@ -1523,8 +1541,71 @@ button {
       grid-template-columns: 1fr
    }
 
+   .form-toast {
+      left: 16px;
+      right: 16px;
+      bottom: 16px;
+      justify-content: center;
+      padding: 12px;
+      font-size: 0.85rem
+   }
+
+   .carre-magique-container {
+      bottom: 16px;
+      right: 16px;
+   }
+
+   .carre-magique-trigger {
+      width: 50px;
+      height: 50px;
+   }
+
+   .carre-magique-trigger svg {
+      width: 20px;
+      height: 20px;
+   }
+
+   .carre-magique-menu {
+      width: 200px;
+   }
+
    .footer .container {
       flex-direction: column;
       text-align: center
+   }
+}
+
+@media(max-width:480px) {
+   .section {
+      padding: 56px 0
+   }
+
+   .hero h1 {
+      font-size: 1.8rem
+   }
+
+   .hero-badge {
+      font-size: 0.65rem;
+      padding: 6px 12px
+   }
+
+   .heading--lg {
+      font-size: 1.6rem
+   }
+
+   .heading--md {
+      font-size: 1.2rem
+   }
+
+   .stat-val {
+      font-size: 1.5rem
+   }
+
+   .stat-lbl {
+      font-size: 0.7rem
+   }
+
+   .btn {
+      padding: 12px 24px
    }
 }
