@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Tell-us Ingénierie — Bureau d'études spécialisé en Sites et Sols Pollués (SSP).">
+  <title>Tell-us Ingénierie — Expertise Sites et Sols Pollués</title>
+  <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+
+  <!-- ===== NAVBAR ===== -->
+  <nav class="navbar" id="navbar">
+    <div class="container">
+      <a href="#" class="nav-logo"><img src="assets/tell_logo.jpg" alt="Tell-us Ingénierie"></a>
+      <div class="nav-links" id="navLinks">
+        <a href="#recrutement">Recrutement</a>
+        <a href="#expertise">Expertise</a>
+        <a href="#sectors">Secteurs</a>
+        <a href="#about">À propos</a>
+        <a href="#why-us">Nos Atouts</a>
+        <a href="#contact" class="btn btn--filled">Contact</a>
+      </div>
+      <div class="nav-hamburger" id="navHamburger">
+        <span></span><span></span><span></span>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ===== HERO ===== -->
+  <header class="hero" id="hero">
+    <div class="hero-bg">
+      <img src="assets/tell_us_ingnierie_cover.jpg" alt="Tell-us Ingénierie Cover">
+    </div>
+    <div class="hero-topo"></div>
+    <div class="container">
+      <div class="hero-content reveal">
+        <div class="hero-badge">
+          <span class="dot"></span>
+          Bureau d'études SSP — Angers, France
+        </div>
+        <h1 class="heading heading--xl">Vos sols ont une histoire.<br>Nous la <span class="accent">décryptons.</span>
+        </h1>
+        <p class="hero-desc">TELL-US Ingénierie est un bureau d'études spécialisé dans la gestion des Sites et Sols
+          Pollués, de l'expertise, aux diagnostics jusqu'aux maîtrises d'œuvre complètes de réhabilitation. TELL-US
+          Ingénierie intervient également dans le conseil en Environnement auprès des Installations Classées pour la
+          Protection de l'Environnement (ICPE).</p>
+        <div class="hero-btns">
+          <a href="#contact" class="btn btn--filled btn-contact-prefill" data-subject="diagnostic">
+            Demander un diagnostic
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+              stroke-linejoin="round">
+              <line x1="5" y1="12" x2="19" y2="12"></line>
+              <polyline points="12 5 19 12 12 19"></polyline>
+            </svg>
+          </a>
+          <a href="#expertise" class="btn btn--outline">
+            Découvrir notre expertise
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="hero-scroll">
+      <div class="line"></div>
+    </div>
+  </header>
+
+  <!-- ===== STATS ===== -->
+  <section class="stats">
+    <div class="container">
+      <div class="stats-grid">
+        <div class="stat">
+          <div class="stat-val">2021</div>
+          <div class="stat-lbl">Fondation (Angers)</div>
+        </div>
+        <div class="stat">
+          <div class="stat-val">100%</div>
+          <div class="stat-lbl">Couverture Nationale</div>
+        </div>
+        <div class="stat">
+          <div class="stat-val">SSP &amp; ICPE</div>
+          <div class="stat-lbl">Spécialisation</div>
+        </div>
+        <div class="stat">
+          <div class="stat-val">A à Z</div>
+          <div class="stat-lbl">Accompagnement</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== RECRUTEMENT MODAL ===== -->
+  <div class="modal" id="recrutementModal">
+    <div class="modal-overlay" id="recrutementOverlay"></div>
+    <div class="modal-content">
+      <button class="modal-close" id="recrutementClose">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <line x1="18" y1="6" x2="6" y2="18"></line>
+          <line x1="6" y1="6" x2="18" y2="18"></line>
+        </svg>
+      </button>
+      <div class="recruitment-layout">
+        <div class="recruitment-text-content">
+          <div class="label">Rejoignez-nous</div>
+          <h2 class="heading heading--lg">Tell-us Ingénierie recrute !</h2>
+          <p class="desc">Dans le cadre du développement de notre activité en Sites et Sols Pollués, nous recherchons de
+            nouveaux profils basés à <strong>Angers (49)</strong> pour renforcer notre équipe :</p>
+
+          <ul class="recruitment-list">
+            <li>
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+                <polyline points="20 6 9 17 4 12"></polyline>
+              </svg>
+              <strong>Technicien SSP expérimenté</strong>
+            </li>
+            <li>
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+                <polyline points="20 6 9 17 4 12"></polyline>
+              </svg>
+              <strong>Alternant ingénieur SSP</strong>
+            </li>
+            <li>
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+                <polyline points="20 6 9 17 4 12"></polyline>
+              </svg>
+              <strong>Alternant technicien SSP</strong>
+            </li>
+          </ul>
+
+          <p class="recruitment-text">Nous intervenons sur tout le territoire français. Nous recherchons des
+            collaborateurs curieux, rigoureux et motivés par les enjeux environnementaux, avec l'envie de participer à
+            des projets concrets au service de la gestion durable des sols.</p>
+
+          <a href="mailto:contact@tell-us.fr" class="btn btn--filled">
+            Candidater (contact@tell-us.fr)
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+              <polyline points="22,6 12,13 2,6"></polyline>
+            </svg>
+          </a>
+        </div>
+        <div class="recruitment-image">
+          <img src="assets/recrute_image.jpg" alt="Tell-us Ingénierie recrute">
+          <div class="recruitment-accent"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== EXPERTISE (ONGLETS) ===== -->
+  <section class="section expertise" id="expertise">
+    <div class="container">
+      <div class="expertise-intro reveal">
+        <div class="label">Notre Expertise</div>
+        <h2 class="heading heading--lg">Une expertise complète, de la suspicion à la remise en état</h2>
+        <p class="desc">Chaque terrain raconte une histoire industrielle. Derrière un sol en apparence inoffensif
+          peuvent se dissimuler des décennies de pollutions silencieuses.</p>
+      </div>
+
+      <div class="expertise-content reveal">
+        <div class="tab-nav">
+          <button class="tab-btn active" data-target="tab-audit">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+              <polyline points="14 2 14 8 20 8"></polyline>
+              <line x1="16" y1="13" x2="8" y2="13"></line>
+              <line x1="16" y1="17" x2="8" y2="17"></line>
+              <polyline points="10 9 9 9 8 9"></polyline>
+            </svg>
+            Études Historiques &amp; Audit
+          </button>
+          <button class="tab-btn" data-target="tab-diag">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="12" cy="12" r="10"></circle>
+              <line x1="12" y1="16" x2="12" y2="12"></line>
+              <line x1="12" y1="8" x2="12.01" y2="8"></line>
+            </svg>
+            Diagnostics &amp; Investigations
+          </button>
+          <button class="tab-btn" data-target="tab-moe">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <polygon points="12 2 2 7 12 12 22 7 12 2"></polygon>
+              <polyline points="2 17 12 22 22 17"></polyline>
+              <polyline points="2 12 12 17 22 12"></polyline>
+            </svg>
+            Maîtrise d'Œuvre &amp; Réhabilitation
+          </button>
+        </div>
+
+        <div class="tab-content">
+          <!-- Tab 1 -->
+          <div class="tab-panel active" id="tab-audit">
+            <div class="tab-text">
+              <h3>L'archéologie industrielle au service de votre projet</h3>
+              <p>Avant même de forer, nos ingénieurs remontent le temps. Archives départementales, plans cadastraux
+                anciens, registres d'activités : nous reconstituons l'ADN industriel de votre parcelle pour localiser
+                les zones de risque.</p>
+              <div class="tab-features">
+                <div class="tab-feature">
+                  <div class="check"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+                      <polyline points="20 6 9 17 4 12"></polyline>
+                    </svg></div>
+                  <span>Études Historiques Documentaires (EHD)</span>
+                </div>
+                <div class="tab-feature">
+                  <div class="check"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+                      <polyline points="20 6 9 17 4 12"></polyline>
+                    </svg></div>
+                  <span>Élaboration du Modèle Conceptuel du Site (MCS)</span>
+                </div>
+                <div class="tab-feature">
+                  <div class="check"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+                      <polyline points="20 6 9 17 4 12"></polyline>
+                    </svg></div>
+                  <span>Analyse des risques industriels</span>
+                </div>
+              </div>
+              <a href="#contact" class="btn btn--ghost btn-contact-prefill" data-subject="audit">
+                Faire auditer votre site
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <line x1="5" y1="12" x2="19" y2="12"></line>
+                  <polyline points="12 5 19 12 12 19"></polyline>
+                </svg>
+              </a>
+            </div>
+            <div class="tab-image">
+              <img src="assets/tell_us_image_plan.jpg" alt="Analyse des plans et archives">
+            </div>
+          </div>
+
+          <!-- Tab 2 -->
+          <div class="tab-panel" id="tab-diag">
+            <div class="tab-text">
+              <h3>La vérité est dans le sol</h3>
+              <p>Lorsque le doute est levé, nous passons à l'action. Nos équipes définissent un plan d'échantillonnage
+                rigoureux, supervisent les campagnes de forages et analysent les résultats avec une précision
+                scientifique.</p>
+              <div class="tab-features">
+                <div class="tab-feature">
+                  <div class="check"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+                      <polyline points="20 6 9 17 4 12"></polyline>
+                    </svg></div>
+                  <span>Prélèvements normés (sols, gaz du sol, eaux souterraines)</span>
+                </div>
+                <div class="tab-feature">
+                  <div class="check"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+                      <polyline points="20 6 9 17 4 12"></polyline>
+                    </svg></div>
+                  <span>Supervision des ateliers de forage et piézomètres</span>
+                </div>
+                <div class="tab-feature">
+                  <div class="check"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+                      <polyline points="20 6 9 17 4 12"></polyline>
+                    </svg></div>
+                  <span>Cartographie des panaches de pollution</span>
+                </div>
+              </div>
+              <a href="#contact" class="btn btn--ghost btn-contact-prefill" data-subject="diagnostic">
+                Planifier une investigation
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <line x1="5" y1="12" x2="19" y2="12"></line>
+                  <polyline points="12 5 19 12 12 19"></polyline>
+                </svg>
+              </a>
+            </div>
+            <div class="tab-image">
+              <img src="assets/tell_us_image_employé.jpg" alt="Investigation environnementale">
+            </div>
+          </div>
+
+          <!-- Tab 3 -->
+          <div class="tab-panel" id="tab-moe">
+            <div class="tab-text">
+              <h3>Du diagnostic à l'action : nous pilotons votre dépollution</h3>
+              <p>Tell-us Ingénierie ne s'arrête pas au constat. En tant que maître d'œuvre, nous concevons, planifions
+                et supervisons l'intégralité de vos opérations de réhabilitation, dans le respect des normes.</p>
+              <div class="tab-features">
+                <div class="tab-feature">
+                  <div class="check"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+                      <polyline points="20 6 9 17 4 12"></polyline>
+                    </svg></div>
+                  <span>Rédaction des CCTP et consultation des entreprises</span>
+                </div>
+                <div class="tab-feature">
+                  <div class="check"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+                      <polyline points="20 6 9 17 4 12"></polyline>
+                    </svg></div>
+                  <span>Suivi opérationnel des chantiers de dépollution</span>
+                </div>
+                <div class="tab-feature">
+                  <div class="check"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+                      <polyline points="20 6 9 17 4 12"></polyline>
+                    </svg></div>
+                  <span>Réception et validation réglementaire</span>
+                </div>
+              </div>
+              <a href="#contact" class="btn btn--ghost btn-contact-prefill" data-subject="rehabilitation">
+                Confier votre réhabilitation
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <line x1="5" y1="12" x2="19" y2="12"></line>
+                  <polyline points="12 5 19 12 12 19"></polyline>
+                </svg>
+              </a>
+            </div>
+            <div class="tab-image">
+              <img src="assets/tell_us_image_travaille.jpg" alt="Maîtrise d'œuvre et travaux de réhabilitation">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== SECTORS ===== -->
+  <section class="section sectors" id="sectors">
+    <div class="container">
+      <div class="reveal">
+        <div class="label">Secteurs d'Intervention</div>
+        <h2 class="heading heading--lg">Chaque secteur, ses défis.<br>Une seule exigence : l'excellence.</h2>
+        <p class="desc">De l'usine centenaire au champ éolien, notre expertise s'adapte aux pollutions spécifiques de
+          chaque environnement.</p>
+      </div>
+
+      <div class="sectors-grid">
+        <div class="sector reveal">
+          <div class="sector-bg" style="background-image:url('assets/tell_us_image_usine.jpg')"></div>
+          <div class="sector-body">
+            <div class="sector-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M2 20a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8l-7 5V8l-7 5V4a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2Z"></path>
+              </svg>
+            </div>
+            <h3>Industrie &amp; Éco-industries</h3>
+            <p>ICPE en exploitation ou en cessation d'activité — plans de gestion, surveillance réglementaire, mise en
+              sécurité.</p>
+          </div>
+        </div>
+        <div class="sector reveal">
+          <div class="sector-bg" style="background-image:url('assets/tell_us_image_usine2.jpg')"></div>
+          <div class="sector-body">
+            <div class="sector-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M3 21h18"></path>
+                <path d="M9 8h1"></path>
+                <path d="M9 12h1"></path>
+                <path d="M9 16h1"></path>
+                <path d="M14 8h1"></path>
+                <path d="M14 12h1"></path>
+                <path d="M14 16h1"></path>
+                <path d="M5 21V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16"></path>
+              </svg>
+            </div>
+            <h3>BTP &amp; Construction</h3>
+            <p>Friches industrielles, reconversion foncière, certification sanitaire pour logements. La loi ZAN
+              transforme chaque terrain en opportunité.</p>
+          </div>
+        </div>
+        <div class="sector reveal">
+          <div class="sector-bg" style="background-image:url('assets/tell_us_image_machine.jpg')"></div>
+          <div class="sector-body">
+            <div class="sector-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"></path>
+                <line x1="4" y1="22" x2="4" y2="15"></line>
+              </svg>
+            </div>
+            <h3>Transport &amp; Chantier</h3>
+            <p>Dépôts ferroviaires, zones portuaires, bases logistiques — pollutions chroniques aux hydrocarbures et
+              métaux lourds.</p>
+          </div>
+        </div>
+        <div class="sector reveal">
+          <div class="sector-bg" style="background-image:url('assets/tell_us_image_dechet.jpg')"></div>
+          <div class="sector-body">
+            <div class="sector-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M21.21 15.89A10 10 0 1 1 8 2.83"></path>
+                <path d="M22 12A10 10 0 0 0 12 2v10z"></path>
+              </svg>
+            </div>
+            <h3>Mines &amp; Santé</h3>
+            <p>Réhabilitation de terrils, reliquats phytosanitaires, passifs hospitaliers — les défis les plus complexes
+              appellent notre expertise.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== ABOUT ===== -->
+  <section class="section about" id="about">
+    <div class="container">
+      <div class="reveal">
+        <div class="label">À propos</div>
+      </div>
+      <div class="about-layout">
+        <div class="about-photo reveal">
+          <div class="about-photo-accent"></div>
+          <img src="assets/founder.png" alt="Pierre Sautour">
+        </div>
+        <div class="about-body reveal">
+          <h2 class="heading heading--lg">À propos de nous</h2>
+          <p>Fondée en 2021, Tell-us Ingénierie est née d'une conviction forte : la réhabilitation des friches et la
+            gestion des passifs environnementaux sont au cœur des défis écologiques et urbains d'aujourd'hui. Face à la
+            complexité grandissante des réglementations, notre bureau d'études s'est structuré pour offrir une expertise
+            de pointe et une alternative agile aux grands groupes d'inspection.</p>
+          <p>Impulsée par son fondateur, Pierre Sautour, ingénieur spécialisé dans les Sites et Sols Pollués,
+            l'entreprise allie rigueur scientifique et proximité. Notre structure à taille humaine nous permet de
+            maîtriser l'ensemble des méthodologies d'analyse de risques environnementaux et de garantir à chaque projet
+            une réactivité absolue.</p>
+          <div class="values">
+            <div class="value-tag">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="20 6 9 17 4 12"></polyline>
+              </svg>
+              Rigueur Scientifique
+            </div>
+            <div class="value-tag">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="20 6 9 17 4 12"></polyline>
+              </svg>
+              Proximité
+            </div>
+            <div class="value-tag">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="20 6 9 17 4 12"></polyline>
+              </svg>
+              Engagement Écologique
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== WHY US ===== -->
+  <section class="section why" id="why-us">
+    <div class="container">
+      <div class="reveal">
+        <div class="label">Nos Atouts</div>
+        <h2 class="heading heading--lg">Pourquoi les décideurs nous choisissent</h2>
+        <p class="desc">Face aux géants de l'inspection, notre agilité et notre spécialisation radicale font la
+          différence.</p>
+      </div>
+
+      <div class="why-grid">
+        <div class="why-card reveal">
+          <div class="why-card-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="12" cy="12" r="10"></circle>
+              <line x1="12" y1="16" x2="12" y2="12"></line>
+              <line x1="12" y1="8" x2="12.01" y2="8"></line>
+            </svg>
+          </div>
+          <h3 class="heading heading--md">Spécialisation Radicale</h3>
+          <p>100% Sites et Sols Pollués. Pas de dilution de compétences : notre expertise est entièrement dédiée à votre
+            problématique.</p>
+        </div>
+        <div class="why-card reveal">
+          <div class="why-card-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon>
+            </svg>
+          </div>
+          <h3 class="heading heading--md">Réactivité Opérationnelle</h3>
+          <p>Interventions d'urgence, délais maîtrisés. Structure légère pour des décisions rapides et une mobilisation
+            immédiate.</p>
+        </div>
+        <div class="why-card reveal">
+          <div class="why-card-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+              <polyline points="14 2 14 8 20 8"></polyline>
+              <line x1="16" y1="13" x2="8" y2="13"></line>
+              <line x1="16" y1="17" x2="8" y2="17"></line>
+              <polyline points="10 9 9 9 8 9"></polyline>
+            </svg>
+          </div>
+          <h3 class="heading heading--md">Conformité NF X 31-620</h3>
+          <p>Respect intégral de la norme de référence SSP. Méthodologies et protocoles au plus haut standard de
+            l'industrie.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== CONTACT ===== -->
+  <section class="section contact" id="contact">
+    <div class="container">
+      <div class="reveal">
+        <div class="label">Contact</div>
+        <h2 class="heading heading--lg">Parlons de votre projet</h2>
+        <p class="desc">Un accompagnement sur mesure. Remplissez ce formulaire pour une prise en charge rapide.</p>
+      </div>
+
+      <div class="contact-layout">
+        <form class="contact-form reveal" id="contactForm">
+          <div class="form-row">
+            <div class="form-group">
+              <label for="name">Nom complet</label>
+              <input type="text" id="name" required placeholder="Jean Dupont">
+            </div>
+            <div class="form-group">
+              <label for="email">Email professionnel</label>
+              <input type="email" id="email" required placeholder="jean.dupont@entreprise.com">
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="form-group">
+              <label for="phone">Téléphone</label>
+              <input type="tel" id="phone" placeholder="+33 6 12 34 56 78">
+            </div>
+            <div class="form-group">
+              <label for="subject">Objet de la demande</label>
+              <select id="subject" required>
+                <option value="" disabled selected>Sélectionnez un besoin</option>
+                <option value="audit">Études Historiques &amp; Audit</option>
+                <option value="diagnostic">Diagnostics &amp; Investigations</option>
+                <option value="rehabilitation">Maîtrise d'Œuvre &amp; Réhabilitation</option>
+                <option value="autre">Autre demande</option>
+              </select>
+              <div class="form-subject-hint" id="formHint"></div>
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="message">Message</label>
+            <textarea id="message" required
+              placeholder="Décrivez votre besoin ou le contexte de votre projet..."></textarea>
+          </div>
+          <div>
+            <button type="submit" class="btn btn--filled">
+              Envoyer la demande
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <line x1="22" y1="2" x2="11" y2="13"></line>
+                <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+              </svg>
+            </button>
+          </div>
+        </form>
+
+        <div class="contact-sidebar reveal">
+          <div class="info-block">
+            <div class="info-block-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+                <circle cx="12" cy="10" r="3"></circle>
+              </svg>
+            </div>
+            <h4>Siège Social</h4>
+            <p>30 Rue des Fours à Chaux<br>49100 Angers, France</p>
+          </div>
+          <div class="info-block">
+            <div class="info-block-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect>
+                <line x1="8" y1="21" x2="16" y2="21"></line>
+                <line x1="12" y1="17" x2="12" y2="21"></line>
+              </svg>
+            </div>
+            <h4>Informations Légales</h4>
+            <p>SIREN : 894 862 416<br>NAF : 71.12B (Ingénierie, études techniques)</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== FOOTER ===== -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-brand"><img src="assets/tell_logo.jpg" alt="Tell-us Ingénierie"></div>
+      <div class="footer-copy">© 2026 Tell-us Ingénierie. Tous droits réservés.</div>
+      <div class="footer-legal">
+        <a href="#">Mentions Légales</a>
+      </div>
+    </div>
+  </footer>
+
+  <div class="form-toast" id="formToast">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <polyline points="20 6 9 17 4 12"></polyline>
+    </svg>
+    Votre demande a bien été envoyée.
+  </div>
+
+  <!-- ===== CARRÉ MAGIQUE ===== -->
+  <div class="carre-magique-container">
+    <div class="carre-magique-menu">
+      <!-- Contenu vide pour l'instant -->
+    </div>
+    <div class="carre-magique-trigger">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <circle cx="12" cy="12" r="10"></circle>
+        <line x1="12" y1="8" x2="12" y2="16"></line>
+        <line x1="8" y1="12" x2="16" y2="12"></line>
+      </svg>
+    </div>
+  </div>
+
+  <script src="index.js"></script>
+</body>
+
+</html>

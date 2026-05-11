@@ -1,0 +1,571 @@
+Analyse Stratégique, Juridique et 
+Opérationnelle de la Société Tell-us 
+Ingénierie : Positionnement et 
+Dynamiques du Secteur des Sites et Sols 
+Pollués (SSP) en France 
+1. Introduction Générale et Contexte 
+Macro-Économique de la Dépollution Foncière 
+Dans un environnement économique et juridique européen de plus en plus contraint par les 
+impératifs de la transition écologique, la réhabilitation des friches industrielles, foncières et 
+urbaines est devenue une priorité stratégique de premier plan. La législation française, 
+reconnue pour sa rigueur en matière de protection environnementale, a opéré un changement 
+de paradigme majeur au cours de la dernière décennie. Les directives nationales, et plus 
+particulièrement la loi Climat et Résilience, ont instauré l'objectif cardinal du "Zéro 
+Artificialisation Nette" (ZAN). Cette trajectoire législative oblige de facto les aménageurs 
+publics, les promoteurs immobiliers et les conglomérats industriels à cesser l'étalement urbain 
+sur les terres agricoles ou naturelles, et à se tourner impérativement vers le recyclage du 
+foncier existant. 
+Or, ce foncier "déjà urbanisé" est intrinsèquement porteur de passifs environnementaux, 
+héritages d'activités industrielles, artisanales ou logistiques passées. C'est à la confluence de 
+cette obligation légale de reconquête foncière et de la complexité scientifique de la chimie des 
+sols que s'est structuré le marché hautement spécialisé de l'ingénierie des Sites et Sols Pollués 
+(SSP). Ce secteur exige une expertise pointue à l'intersection de la géologie, de l'hydrogéologie, 
+de la toxicologie et du génie civil. 
+C'est très exactement au sein de cet écosystème dynamique, réglementé et à forte valeur 
+ajoutée qu'évolue la société Tell-us Ingénierie, fondée et dirigée par Pierre Sautour.1 Afin de 
+répondre exhaustivement à la demande d'analyse de cette entité, incluant la recherche de ses 
+indicateurs financiers, de sa structure sociale et de ses capacités opérationnelles, le présent 
+rapport déploie une radiographie complète de l'entreprise. Cette investigation agrège, 
+synthétise et met en perspective l'ensemble des données publiques, économiques et 
+institutionnelles disponibles.1 Elle propose non seulement de statuer sur la réalité juridique et 
+commerciale de Tell-us Ingénierie, mais également de décrypter son modèle d'affaires, 
+d'estimer ses métriques internes par modélisation économique face à l'absence de données 
+publiques, de cartographier son paysage concurrentiel dominé par des géants de l'inspection, 
+et d'opérer une indispensable désambiguïsation face au bruit numérique généré par de 
+multiples homonymies corporatives à l'échelle nationale et internationale. 
+2. Architecture Juridique, Identité Administrative et 
+Ancrage Territorial 
+L'analyse de l'empreinte légale et de la nomenclature administrative de Tell-us Ingénierie 
+constitue le socle indispensable pour appréhender son envergure opérationnelle. L'entreprise 
+est immatriculée sur le territoire français et opère sous un statut de société commerciale 
+standardisée, spécifiquement calibrée pour la prestation de services intellectuels de haut 
+niveau. 
+2.1. Fiche d'Identité Sociale et Immatriculation SIRENE 
+Les bases de données de l'administration publique française et l'Annuaire des Entreprises 
+confirment que la société Tell-us Ingénierie a été formellement créée le 1er mars 2021.2 Son 
+immatriculation officielle au registre du commerce et des sociétés (RCS) est intervenue 
+quelques jours plus tard, le 10 mars 2021.2 L'entité légale est dotée d'une durée de vie statutaire 
+s'étendant jusqu'au 9 mars 2120, ce qui correspond à la durée maximale standard de 99 ans 
+accordée aux personnes morales de type commercial en France.2 
+Le tableau ci-dessous agrège et structure les métriques d'identification fondamentales de 
+l'établissement principal, permettant de figer son identité légale : 
+ 
+Attribut Administratif et Légal 
+Valeur Enregistrée dans les Registres 
+Publics 
+Raison Sociale Officielle 
+TELL-US INGENIERIE 2 
+Numéro d'Identification SIREN 
+894 862 416 2 
+Numéro de SIRET (Établissement Siège) 
+894 862 416 00019 2 
+Date de Création de l'Entreprise 
+01/03/2021 2 
+Date d'Immatriculation Administrative 
+10/03/2021 2 
+Code Nomenclature d'Activité Française 
+(NAF / APE) 
+71.12B (Ingénierie, études techniques) 2 
+Adresse du Siège Social 
+30 Rue des Fours à Chaux, 49100 Angers, 
+France 2 
+État Actuel de l'Activité 
+En activité 2 
+Date de Clôture de l'Exercice Comptable 
+31 Décembre 2 
+2.2. Décryptage du Code NAF 71.12B et Implications sur le Modèle 
+d'Affaires 
+L'attribution du code d'Activité Principale Exercée (APE) ou NAF 71.12B, qui correspond 
+textuellement à "Ingénierie, études techniques", est un marqueur déterminant de la nature 
+intrinsèque des services fournis par Tell-us Ingénierie.2 Ce code sectoriel regroupe 
+historiquement au sein de l'économie française les bureaux d'études techniques indépendants, 
+les cabinets de conseil spécialisés dans l'environnement, l'acoustique, l'hydrogéologie, ainsi que 
+les sociétés d'ingénierie concourant à la maîtrise d'œuvre. 
+Sur le plan de l'analyse économique, l'appartenance à cette sous-classe d'activité dicte un 
+modèle d'affaires de type "Business to Business" (B2B) exclusivement fondé sur la prestation 
+intellectuelle à haute valeur ajoutée. Contrairement à une entreprise industrielle ou 
+commerciale classique, les actifs corporels de Tell-us Ingénierie (machines, stocks de matières 
+premières) sont marginaux. Le véritable capital de l'entreprise est immatériel et humain : il 
+réside dans l'expertise technique de ses dirigeants, dans la maîtrise des méthodologies 
+d'analyse de risques, et dans sa capacité à produire des rapports d'études opposables 
+juridiquement. Par voie de conséquence, la structure des coûts d'exploitation d'une entité 
+opérant sous le code 71.12B est structurellement asymétrique. Elle est dominée de manière 
+écrasante par la masse salariale des ingénieurs et, fait crucial dans le secteur spécifique des 
+sites et sols pollués, par le coût exponentiel des assurances de Responsabilité Civile 
+Professionnelle (RC Pro). En effet, le risque de sous-évaluer une pollution souterraine engage la 
+responsabilité décennale ou environnementale du bureau d'études face aux maîtres d'ouvrage, 
+justifiant des primes d'assurance considérables qui constituent une véritable barrière à l'entrée 
+sur ce marché. 
+2.3. L'Ancrage Territorial Stratégique : Le Barycentre d'Angers 
+La domiciliation du siège social au 30 Rue des Fours à Chaux, au sein de la commune d'Angers 
+(Code Postal 49100), relève d'une logique de géographie économique particulièrement 
+pertinente.2 Historiquement et économiquement, la préfecture du Maine-et-Loire s'est érigée 
+en pôle de compétitivité national, voire européen, dans les domaines du végétal, de 
+l'agronomie, de la gestion de l'environnement et du développement durable. La ville concentre 
+un tissu académique dense, incluant des écoles d'ingénieurs spécialisées et des centres de 
+recherche, fournissant un vivier de talents indispensable au recrutement de profils techniques. 
+Pour une société d'ingénierie environnementale dont l'ambition, telle que déclarée sur les 
+plateformes de référencement, est de couvrir une zone de chalandise s'étendant 
+potentiellement à l'ensemble des départements et régions françaises, la position d'Angers est 
+un atout logistique majeur.1 Cette localisation offre un positionnement barycentrique 
+exceptionnel pour rayonner sur le Grand Ouest. Elle permet une projection rapide par voie 
+terrestre ou ferroviaire vers les grands chantiers de réhabilitation industrielle situés en 
+Bretagne, dans les Pays de la Loire, en Normandie, en Centre-Val de Loire ou sur la façade 
+atlantique de la Nouvelle-Aquitaine. De surcroît, implanter son siège opérationnel à Angers 
+plutôt qu'en Île-de-France ou dans la métropole lyonnaise permet à une jeune entreprise 
+fondée en 2021 d'optimiser ses coûts fixes immobiliers, préservant ainsi sa trésorerie initiale et 
+sa compétitivité tarifaire lors des appels d'offres face aux majors de l'ingénierie. 
+3. Transparence Financière, Modélisation du Chiffre 
+d'Affaires et Structuration des Ressources Humaines 
+La requête d'analyse exigeait une transparence totale concernant les indicateurs chiffrés, le 
+chiffre d'affaires et le nombre d'employés de l'entreprise. L'investigation se heurte ici à un mur 
+légal de protection de l'information qui est caractéristique du paysage entrepreneurial français 
+contemporain. Il convient donc de déconstruire ce manque de données publiques et de 
+proposer une modélisation économique experte pour pallier cette absence. 
+3.1. L'Opacité Légale : Une Stratégie d'Intelligence Économique 
+Assumée 
+Une interrogation systématique et exhaustive des agrégateurs de données financières, tels que 
+Pappers, Societe.com, ou les bases de données ouvertes du gouvernement (data.gouv.fr), 
+confirme le maintien en activité ininterrompue de Tell-us Ingénierie depuis 2021, avec des 
+clôtures d'exercices comptables régulières au 31 décembre.2 Néanmoins, absolument aucune 
+donnée chiffrée stricte relative au Chiffre d'Affaires (CA), au Résultat Net, à l'Excédent Brut 
+d'Exploitation (EBE) ou à l'actif du bilan n'est publiquement accessible. Les plateformes de 
+requêtes commerciales indiquent clairement l'impossibilité d'accéder à ces métriques.4 
+Cette absence totale d'information ne constitue nullement une anomalie administrative, un 
+défaut de dépôt de comptes auprès du greffe du tribunal de commerce, ou le symptôme d'une 
+défaillance financière. Elle résulte de l'application rigoureuse des dispositions légales 
+introduites par la loi Macron de 2015, et ultérieurement élargies par la loi PACTE de 2019 
+(notamment l'article L232-25 du Code de commerce). Ce cadre législatif autorise les 
+micro-entreprises (définies par un bilan inférieur à 350 000 euros, un chiffre d'affaires net 
+inférieur à 700 000 euros et moins de 10 salariés) ainsi que les petites entreprises, à assortir le 
+dépôt de leurs comptes annuels d'une déclaration de confidentialité. En cochant cette option 
+lors du dépôt légal, le bilan et le compte de résultat deviennent inaccessibles aux tiers, y 
+compris aux concurrents et aux agences de notation privées. 
+Sur le spectre de l'intelligence économique, l'activation de ce bouclier de confidentialité par 
+Tell-us Ingénierie relève d'une décision stratégique élémentaire pour un bureau d'études 
+récent. Dans le marché oligopolistique des sites et sols pollués, révéler sa structure de coûts, sa 
+marge d'exploitation ou son volume d'affaires reviendrait à offrir à ses concurrents directs les 
+clés pour procéder à une sous-cotation ciblée lors d'appels d'offres publics ou privés. De plus, 
+maintenir l'opacité sur ses indicateurs financiers préserve la capacité de l'entreprise à négocier 
+de manière asymétrique avec ses fournisseurs principaux, notamment les laboratoires 
+d'analyses chimiques et les entreprises de forage géotechnique, qui pèsent lourdement sur les 
+débours d'une mission de diagnostic.4 
+3.2. Modélisation Estimative du Chiffre d'Affaires et du Taux de Charge 
+En l'absence de publication officielle 4, l'économie interne d'une structure spécialisée telle que 
+Tell-us Ingénierie peut être finement modélisée en s'appuyant sur les standards de l'industrie 
+de l'ingénierie environnementale (syntec-ingénierie). Le chiffre d'affaires d'un bureau d'études 
+indépendant est une fonction mathématique directe de trois variables : le Taux Journalier 
+Moyen (TJM) facturé aux clients, le nombre de jours ouvrés dans l'année, et le Taux de Charge 
+ou d'Activité (la proportion de ces jours qui est effectivement facturable par rapport au temps 
+de gestion interne ou de développement commercial). 
+Dans le secteur des sites et sols pollués, l'expertise est onéreuse en raison du risque juridique 
+associé. Le TJM d'un ingénieur d'études de terrain oscille généralement entre 550 et 800 euros 
+hors taxes. Le TJM d'un expert senior ou d'un directeur de projet maîtrisant la conception de 
+plans de réhabilitation complexes dépasse fréquemment la barre des 1000 à 1200 euros hors 
+taxes. En postulant un scénario conservateur où le dirigeant fondateur effectue lui-même une 
+large part de la production intellectuelle, avec un taux de facturation effectif de 60 à 70% de 
+son temps annuel (environ 140 à 150 jours facturés), le chiffre d'affaires généré par un seul 
+expert senior se situe mécaniquement dans une fourchette de 140 000 à 180 000 euros 
+annuels. Si l'entreprise intègre des collaborateurs supplémentaires (ingénieurs juniors ou 
+techniciens de prélèvement), le chiffre d'affaires global s'accroît proportionnellement, bien que 
+la rentabilité marginale dépende des frais de sous-traitance analytique imputés au client. Ainsi, 
+un cabinet de l'âge et de la structuration de Tell-us Ingénierie génère vraisemblablement un 
+chiffre d'affaires inférieur au million d'euros, ce qui corrobore son éligibilité aux options de 
+confidentialité susmentionnées. 
+3.3. Estimation des Effectifs et Structuration des Ressources 
+Humaines 
+La question du nombre d'employés suit la même logique de confidentialité légale. Les 
+structures de moins de onze salariés ne sont pas tenues de publier des bilans sociaux détaillés. 
+L'observation du cycle de vie de Tell-us Ingénierie, fondée début 2021 2, et de sa 
+communication très focalisée autour de son dirigeant exclusif Pierre Sautour 1, indique de 
+manière quasi certaine une organisation de type Très Petite Entreprise (TPE). L'effectif réel doit 
+logiquement se situer dans un spectre allant d'une personne (le fondateur agissant en tant que 
+consultant indépendant) à une équipe resserrée d'environ trois à cinq collaborateurs. 
+Dans la typologie des bureaux d'études de niche, une équipe de cette dimension se compose 
+généralement du dirigeant (assurant les rôles croisés de directeur technique, commercial et 
+administratif), soutenu par un ou deux ingénieurs de projets chargés de la rédaction des 
+mémoires de synthèses historiques, et potentiellement d'un technicien de terrain chargé 
+d'encadrer les campagnes de forages et de réaliser les prélèvements d'échantillons de sols et 
+d'eaux souterraines.5 Cette hypothèse d'effectif réduit garantit une grande agilité décisionnelle 
+et l'absence de rigidités bureaucratiques, constituant un argument de vente de proximité 
+décisif auprès des PME industrielles ou des aménageurs régionaux nécessitant des 
+interventions d'urgence. 
+Il est impératif de souligner que toutes les données relatives à des recrutements massifs ou à 
+des notes d'évaluation d'employés figurant sur des plateformes comme Indeed ou Hellowork 
+pour des entreprises nommées "Tellus" (par exemple pour des postes de Webmarketing à 
+Valbonne ou de conducteur d'installation agro-alimentaire dans l'Indre) relèvent de la pollution 
+informationnelle (faux positifs) et ne concernent absolument pas la société d'ingénierie 
+angevine, point qui sera développé dans la section de désambiguïsation.6 
+4. Gouvernance, Stratégie de Rayonnement B2B et 
+Empreinte Numérique 
+La viabilité d'un cabinet de conseil naissant repose fondamentalement sur l'incarnation de son 
+expertise par sa direction et sur sa capacité à générer un flux d'affaires récurrent dans un 
+environnement interentreprises complexe. 
+4.1. L'Incarnation Exécutive par Pierre Sautour 
+L'ensemble des documents corporatifs, des annuaires professionnels et des traces 
+événementielles convergent pour désigner de manière univoque Pierre Sautour comme le 
+principal point de contact, le représentant légal présumé et la figure tutélaire de Tell-us 
+Ingénierie.1 Dans le modèle classique de l'ingénierie indépendante, le fondateur n'est pas un 
+simple gestionnaire ; il est le garant scientifique de l'entreprise. Sa signature au bas des 
+rapports d'expertise engage la responsabilité de la structure. Cette omnipotence managériale 
+exige une polyvalence extrême, oscillant de la révision technique minutieuse des modèles 
+conceptuels de pollution à la conquête agressive de parts de marché institutionnelles.1 
+4.2. Stratégie Événementielle et Inbound Marketing : Le Levier 
+Go-Entrepreneurs 
+L'analyse de l'empreinte événementielle de la société révèle une tactique d'acquisition client 
+très ciblée. Pierre Sautour a été identifié en tant qu'intervenant expert ("speaker") lors du salon 
+majeur Go-Entrepreneurs, organisé à Nantes en 2022.10 Il y a animé des sessions spécifiques, 
+dont une programmée en ouverture de journée le 24 novembre à 09h00.10 
+La participation à ce type d'événement d'envergure régionale et nationale constitue une 
+manœuvre d'inbound marketing classique mais redoutablement efficace pour un cabinet de 
+conseil. Le public de Go-Entrepreneurs est composé de repreneurs d'entreprises, de dirigeants 
+de PME industrielles, d'investisseurs et de responsables territoriaux. Pour Tell-us Ingénierie, 
+s'adresser à cette audience permet de satisfaire un double objectif stratégique : 
+1.​ L'évangélisation et la pédagogie de marché : Informer les décideurs des risques 
+financiers cataclysmiques liés à l'achat "à l'aveugle" d'un terrain industriel ou d'une usine. 
+Une pollution non diagnostiquée peut ruiner l'économie d'un projet immobilier ou 
+entraîner la faillite d'un repreneur en raison de l'obligation de remise en état dictée par la 
+préfecture. 
+2.​ La captation des flux de Due Diligence : Les opérations de fusions-acquisitions (fusacq) 
+ou de cessions de baux industriels exigent systématiquement des audits préalables de 
+pollution (Phase 1 et Phase 2). Se positionner comme la référence technique locale lors de 
+ces conférences permet de transformer les auditeurs inquiets en clients qualifiés, captant 
+ainsi la demande à sa source avant même le lancement d'appels d'offres formels. 
+4.3. Le Paradoxe de l'Empreinte Digitale en B2B 
+L'observation de l'infrastructure numérique de Tell-us Ingénierie met en exergue une situation 
+asymétrique, souvent rencontrée chez les acteurs de la deep-tech ou du conseil de niche. 
+D'une part, le domaine propriétaire de l'entreprise (www.tell-us.fr) est explicitement référencé 
+comme étant "en construction", signifiant que l'entreprise n'a pas jugé vital de déployer un site 
+vitrine exhaustif dans les premières années de sa fondation.11 
+D'autre part, la société pallie cette absence de site en propre par une politique de 
+référencement chirurgicale sur les plateformes B2B hautement spécialisées. Tell-us Ingénierie 
+s'est notamment inscrite sur EnviroPro Connect, un annuaire national prestigieux recensant en 
+continu les solutions environnementales pour les professionnels.1 La description de la fiche 
+entreprise y est détaillée, professionnelle et met en avant la zone de chalandise nationale. Cette 
+approche dénote une volonté de privilégier un ciblage granulaire des donneurs d'ordres 
+institutionnels (qui sourcent leurs prestataires sur ce type d'annuaires adossés à des salons 
+professionnels, évoquant même des intégrations de paiement modernes type Stripe et la 
+mention "French Tech") plutôt que d'investir du capital dans un référencement Google 
+généraliste qui générerait des appels de particuliers non solvables.1 La présence basique sur 
+des annuaires classiques tels que les Pages Jaunes assure néanmoins le minimum vital de 
+référencement local à Angers.12 
+5. Cœur de Métier : Décryptage des Prestations 
+d'Ingénierie des Sites et Sols Pollués (SSP) 
+La proposition de valeur de Tell-us Ingénierie s'articule exclusivement autour d'une discipline 
+singulière et protéiforme : l'ingénierie des Sites et Sols Pollués (SSP). Les déclarations d'intention 
+de l'entreprise la positionnent non pas comme un simple auditeur périphérique, mais comme 
+un bureau d'études capable d'accompagner un projet de bout en bout, de la suspicion initiale 
+jusqu'à l'effacement complet du passif environnemental.1 
+5.1. Le Continuum de l'Expertise Environnementale 
+L'intervention de Tell-us Ingénierie s'insère dans un séquençage méthodologique imposé par la 
+doctrine nationale du Ministère de la Transition Écologique. L'offre de la société couvre trois 
+grands piliers indissociables 1 : 
+A. L'Expertise, l'Audit et les Études Historiques Documentaires (EHD) : Avant même de 
+forer le sol, le travail de l'ingénieur s'apparente à de l'archéologie industrielle. L'entreprise 
+procède à une analyse exhaustive des archives départementales, des plans anciens, et des 
+registres d'activités pour reconstituer l'historique de la parcelle ciblée. L'objectif est de localiser 
+les anciennes cuves d'hydrocarbures, les zones de stockage de solvants chlorés ou les aires de 
+dépotage de produits chimiques qui ont pu fuir il y a des décennies. C'est à ce stade que le 
+Modèle Conceptuel du Site (MCS) est élaboré, cartographiant le risque potentiel selon le 
+triptyque incontournable de l'ingénieur : Source de pollution - Vecteur de transfert - Cible 
+vulnérable (nappe phréatique, riverains). Des prestations annexes d'audit et de formation en 
+gestion des risques industriels, notamment toxiques, thermiques et d'explosions, complètent 
+cette phase préventive.1 
+B. Les Diagnostics Opérationnels et Investigations sur Site : Si la phase d'expertise soulève 
+des suspicions, Tell-us Ingénierie bascule en phase de diagnostic actif.1 Le bureau d'études, 
+agissant comme prescripteur, définit un plan d'échantillonnage drastique. Il mobilise et 
+supervise sur le terrain des ateliers de forage et des engins de terrassement. Les ingénieurs ou 
+techniciens de Tell-us procèdent alors au prélèvement normé des sols, des gaz contenus dans 
+la matrice du sol (qui peuvent remonter vers les habitations), et des eaux souterraines au 
+moyen de piézomètres.5 Comme le souligne la documentation académique du secteur, cette 
+phase exige une rigueur implacable pour éviter les contaminations croisées, avant l'envoi des 
+échantillons vers des laboratoires d'analyses sous accréditation.5 L'interprétation statistique de 
+ces résultats permet de quantifier l'étendue du panache de pollution. 
+C. La Maîtrise d'Œuvre (MOE) Complète et la Réhabilitation : C'est sur ce segment que 
+Tell-us Ingénierie affirme sa capacité à gérer l'opérationnel lourd.1 Lorsqu'une dépollution est 
+décidée, le bureau d'études endosse le costume de maître d'œuvre. Il rédige les Cahiers des 
+Clauses Techniques Particulières (CCTP), consulte les entreprises de travaux spécialisées, et 
+assure le suivi rigoureux du chantier de dépollution jusqu'à sa réception. Cette ingénierie de 
+réhabilitation fait appel à des technologies complexes. Selon les retours d'expérience 
+documentés par les instances étatiques (ADEME), la gestion de ces chantiers implique souvent 
+des excavations spectaculaires de dizaines de milliers de tonnes de terres contaminées.13 Les 
+ingénieurs encadrant la MOE doivent organiser, par exemple, le criblage mécanique des terres 
+pour séparer les éléments grossiers sains des fractions fines chargées en polluants, ou 
+orchestrer des opérations de chaulage pour neutraliser et stabiliser certains composés 
+physico-chimiques.13 Dans les environnements urbains denses, Tell-us Ingénierie peut être 
+amenée à superviser l'édification de gigantesques tentes de confinement maintenues en 
+dépression afin d'empêcher les vapeurs toxiques ou les poussières de s'échapper vers le 
+voisinage urbain lors du terrassement.13 
+5.2. Taxonomie Sectorielle et Typologie de la Clientèle 
+La polyvalence affirmée de Tell-us Ingénierie lui permet de s'adresser à une granularité 
+exceptionnelle de secteurs économiques.1 Chaque filière génère des pollutions spécifiques, 
+appelant des protocoles de réhabilitation sur mesure : 
+1.​ L'Industrie et les Éco-industries : Marché originel du SSP, dicté par la législation des 
+Installations Classées pour la Protection de l'Environnement (ICPE). Tell-us accompagne 
+les usines en exploitation (surveillance réglementaire continue) et lors de leur fermeture 
+(plan de gestion de cessation d'activité pour garantir la mise en sécurité du site selon son 
+usage futur). 
+2.​ BTP, Construction, Ville et Territoire : C'est le moteur contemporain de la croissance du 
+secteur. Face au verrouillage juridique de l'étalement urbain (Loi ALUR, ZAN), les 
+aménageurs et promoteurs rachètent des friches. L'expertise de Tell-us y est requise pour 
+certifier que les terrains sont compatibles sur le plan sanitaire avec la construction de 
+logements, de crèches ou d'espaces verts. 
+3.​ Transport, Logistique et Infrastructures : Ces emprises, couvrant souvent des dizaines 
+d'hectares (anciens dépôts ferroviaires de la SNCF, ports maritimes ou fluviaux, bases 
+logistiques), abritent des pollutions chroniques et massives aux hydrocarbures, goudrons 
+ou métaux lourds. L'ingénierie portuaire et maritime (secteur Mer & Littoral explicitement 
+visé par l'entreprise) impose de prendre en compte les variations de marées et l'érosion 
+côtière dans la migration des polluants.1 
+4.​ Mines, Carrières et Agriculture : Ce sont des secteurs où les volumes en jeu sont 
+titanesques. La réhabilitation d'anciennes mines exige le traitement des terrils et des 
+drainages miniers acides. Pour l'agriculture, le défi porte sur les reliquats persistants de 
+produits phytosanitaires (pesticides, herbicides historiques) ou d'engrais (nitrates) 
+incrustés profondément dans les profils géologiques, nécessitant des stratégies de 
+phytoremédiation ou d'atténuation naturelle surveillée, des domaines où le contrôle, la 
+mesure et l'analyse de Tell-us Ingénierie prennent tout leur sens.1 L'intégration des 
+hôpitaux et du domaine de la santé dans leurs cibles souligne également la nécessité de 
+gérer des passifs complexes, potentiellement liés à des rejets d'anciens composés 
+pharmaceutiques ou radiologiques.1 
+6. L'Écosystème Concurrentiel et le Cadre Normatif 
+Restrictif 
+Tell-us Ingénierie ne navigue pas en eaux calmes. Le marché français de l'ingénierie 
+environnementale s'est considérablement consolidé au fil des années, formant un paysage 
+oligopolistique régi par des exigences normatives quasi infranchissables pour les acteurs non 
+qualifiés. 
+6.1. La Cartographie de l'Oligopole de l'Inspection et du Conseil 
+Face à une entité à taille humaine comme Tell-us, le marché est dominé par des conglomérats 
+multinationaux et de colossales Entreprises de Taille Intermédiaire (ETI), historiquement issues 
+du contrôle technique du bâtiment, qui ont massivement investi le champ de l'environnement 
+par croissance externe : 
+●​ Le Groupe APAVE : Géant institutionnel de la gestion des risques, structuré autour de 
+multiples entités spécialisées. Apave dispose de divisions entières dédiées aux sites et 
+sols pollués, s'appuyant sur une communication axée sur les engagements RSE 
+(Responsabilité Sociétale des Entreprises) et une force de frappe logistique globale pour 
+répondre aux appels d'offres de l'État et des grands donneurs d'ordres nationaux.14 
+●​ WSP : Acteur tentaculaire de l'ingénierie d'origine nord-américaine, WSP déploie en 
+France un département très puissant dédié à l'"Eau, Environnement & Déchets". Leurs 
+services englobent le conseil stratégique mondial, les solutions de développement 
+durable et, point différenciant crucial, le développement de solutions numériques 
+avancées pour la modélisation géostatistique des panaches de pollution souterrains.15 
+●​ Ginger BURGEAP : L'un des pionniers et leaders historiques de l'ingénierie de 
+l'environnement en France. Spécialisée dans l'eau, l'énergie, la ville et le territoire, cette 
+firme possède une autorité reconnue sur le marché de l'expertise, de la levée de doute et 
+de la gestion systémique des passifs environnementaux complexes.16 
+●​ SOCOTEC : Autre acteur omnipotent du contrôle réglementaire, dont le maillage 
+territorial en France est total. Leurs pôles environnementaux (comme celui d'Arteparc à 
+Lesquin) intègrent des dizaines d'ingénieurs dont le quotidien est structuré autour des 
+chantiers de dépollution et de la rédaction industrialisée de rapports réglementaires.5 
+Dans cet arène hyper-concurrentielle, la stratégie de survie et de croissance d'une structure 
+agressive mais modeste comme Tell-us Ingénierie repose sur la spécialisation radicale. Les 
+grands groupes souffrent souvent d'une inertie hiérarchique et de coûts de structure colossaux 
+qui majorent leurs devis. Le cabinet de Pierre Sautour peut dès lors capter les marchés 
+régionaux en proposant une proximité géographique immédiate, une réactivité opérationnelle 
+supérieure pour les missions d'urgence, et une relation de confiance interpersonnelle (intuitu 
+personae) qui rassure les dirigeants de PME industrielles face aux lourdeurs administratives. 
+6.2. La Barrière Normative : Le Monopole de Fait de la Certification 
+LNE 
+L'intelligence du marché des sols pollués en France réside dans son architecture de contrôle. 
+Pour prévenir les dérives et les malfaçons dans la gestion de déchets toxiques, le secteur est 
+verrouillé par la norme AFNOR NF X 31-620. Cette norme technique tentaculaire encadre la 
+moindre étape du métier, depuis la méthodologie de l'étude historique jusqu'à l'étalonnage des 
+détecteurs de gaz portatifs. 
+Sur la base de cette norme, le Laboratoire National de Métrologie et d'Essais (LNE) a instauré 
+une certification de services ("Certification volontaire LNE SSP").17 L'analyse de l'industrie 
+démontre que, bien que qualifiée de "volontaire" dans les textes, cette certification est devenue 
+de facto une condition sine qua non d'existence commerciale. Absolument aucun grand 
+promoteur immobilier ni aucune agence d'État ne confiera un mandat de Maîtrise d'Œuvre à un 
+bureau d'études non certifié.18 L'obtention et le maintien de ce label impliquent des audits 
+annuels drastiques par des évaluateurs indépendants, constituant un poste de dépense majeur 
+pour une petite entreprise. Parallèlement, l'adhésion à des syndicats professionnels d'élite 
+comme l'UPDS (Union des Professionnels de la Dépollution des Sites) permet aux entreprises 
+de s'intégrer dans le cercle de confiance des donneurs d'ordres de rang mondial.18 
+Si le statut exact de certification de Tell-us Ingénierie ne fait pas l'objet d'une publication 
+ouverte évidente dans le panel d'analyse primaire, la déclaration explicite de ses compétences 
+globales allant jusqu'à la "maîtrise d'œuvre complète de réhabilitation" indique une soumission 
+inévitable aux exigences de cette norme fondatrice NF X 31-620, sous peine d'être ostracisée 
+par les assurances RC Pro du marché. 
+7. Désambiguïsation Informationnelle : Le Défi de 
+l'Homonymie en Intelligence Économique 
+La recherche d'informations stratégiques en sources ouvertes (OSINT) est perpétuellement 
+confrontée au phénomène d'homonymie corporative. Le vocable "Tellus", emprunté à la déesse 
+romaine personnifiant la Terre, est un archétype lexical surutilisé à l'échelle mondiale dans tous 
+les secteurs touchant à l'agronomie, à l'écologie ou aux géosciences. Par conséquent, une part 
+écrasante des résultats de recherche associés à ce nom relève du bruit numérique et doit être 
+formellement rejetée de l'analyse afin de ne pas contaminer la fiabilité du rapport. 
+7.1. Cartographie et Rejet des Entités Tellus Non Pertinentes 
+Le tableau suivant répertorie les entités fallacieusement associées par les algorithmes de 
+recherche à Tell-us Ingénierie, en justifiant leur exclusion formelle du périmètre d'analyse : 
+ 
+Entité Homonyme 
+Identifiée 
+Localisation 
+Géographique 
+Secteur d'Activité et 
+Justification du Rejet 
+TELL'US (SIREN 809 829 
+039) 19 
+Aix-en-Provence (13100), 
+France 
+Cette société est 
+juridiquement distincte 
+(SIREN différent) et ancrée 
+dans le sud de la France, 
+sans aucun lien 
+capitalistique avec la 
+structure de Pierre Sautour. 
+Tellus Environment 21 
+Bruz (35170), France 
+Bien qu'opérant dans le 
+Grand Ouest et s'adressant 
+aux chantiers, son expertise 
+(archéologie, détection de 
+réseaux, géosciences de 
+l'énergie) et ses dirigeants 
+sont totalement séparés de 
+l'ingénierie de la pollution 
+chimique des sols. 
+Tellus Institute 22 
+États-Unis 
+Il s'agit d'un "think tank" 
+académique américain. Ses 
+publications philosophiques 
+(Great Transition, Journey 
+to Earthland) militent pour 
+une civilisation planétaire et 
+n'ont aucune vocation de 
+conseil industriel B2B en 
+France. 
+Tellus Products, LLC 23 
+États-Unis 
+Entreprise industrielle 
+américaine spécialisée dans 
+la fabrication de produits 
+matériels (emballages 
+végétaux), sans rapport 
+avec la prestation 
+intellectuelle 
+environnementale 
+européenne. 
+GIE SIGMA-XPER / 
+Groupe Sigma 24 
+Cormeilles-en-Parisis / 
+Brillon / Le Mans, France 
+Ces entités de conseil pour 
+les affaires (NAF 70.22Z) 
+sont souvent associées par 
+erreur dans les bases de 
+données d'entreprises 
+(INPI/SIRENE) suite à des 
+croisements algorithmiques 
+erronés ; aucun lien 
+organique avec Tell-us 
+n'existe. 
+7.2. La Fausse Piste des Plateformes de Recrutement et des Avis 
+Employés 
+La désambiguïsation la plus critique concerne l'interprétation de la marque employeur. Les 
+portails d'offres d'emploi et de notation d'entreprises (Indeed, Hellowork) sont pollués par 
+l'agrégation indifférenciée de toutes les entités comportant la chaîne de caractères "Tellus".6 
+Il est ainsi formellement inexact d'attribuer à Tell-us Ingénierie (Angers) la note globale 
+employeur de "3,8 sur 5" issue de "68 avis".6 L'analyse lexicale des témoignages rattachés à cette 
+note (publiés par exemple depuis 2017, soit quatre ans avant la création de l'entreprise étudiée) 
+révèle qu'ils décrivent des environnements de travail n'ayant aucun lien avec l'ingénierie des 
+sols. Des offres d'emploi pour des postes de "Responsable Webmarketing" à Valbonne dans les 
+Alpes-Maritimes 6 ou de "Conducteur d'Installation H/F" dans l'industrie agro-alimentaire et 
+d'alimentation animale (Agro/Aliments pour animaux) dans l'Indre (Pouligny-Notre-Dame) 8 
+concernent l'univers industriel et numérique, et non l'environnement austère et 
+hyper-technique de la carotteuse de sol géotechnique et du laboratoire d'analyses chimiques. 
+La seule empreinte valide et incontestable de Tell-us Ingénierie dans l'espace numérique reste 
+son profil officiel sur les annuaires environnementaux spécialisés B2B et ses interventions 
+publiques documentées sous l'égide de son dirigeant exclusif.1 
+8. Conclusion Stratégique et Perspectives 
+En définitive, la radiographie de la société Tell-us Ingénierie met en évidence la quintessence du 
+modèle des bureaux d'études de niche opérant dans le sillage de la transition écologique 
+française. Fondée au printemps 2021 à Angers par Pierre Sautour, l'entreprise s'est 
+judicieusement positionnée à l'épicentre juridique et technique de la reconquête foncière : 
+l'ingénierie des Sites et Sols Pollués (SSP). Ce choix sectoriel s'avère économiquement 
+visionnaire, porté structurellement par l'interdiction de l'artificialisation des sols vierges, forçant 
+l'ensemble de l'appareil productif et de la promotion immobilière nationale à requalifier 
+coûteusement son héritage industriel. 
+Là où Tell-us Ingénierie démontre sa singularité, c'est dans sa promesse d'une transversalité 
+absolue, allant de l'expertise documentaire initiale en archives jusqu'à la direction 
+opérationnelle de la dépollution (maîtrise d'œuvre) pour des secteurs d'une grande disparité 
+(mines, santé, BTP, ports). Sur le plan de l'intelligence stratégique, l'entreprise maîtrise une 
+forme d'invisibilité tactique très efficace. En exploitant les boucliers légaux de confidentialité 
+offerts par le droit des sociétés français, elle dissimule sa rentabilité, son chiffre d'affaires et ses 
+effectifs réduits (estimés par modélisation entre un et cinq experts de haut niveau) à ses rivaux 
+colossaux (Apave, WSP, Ginger, Socotec). Cette stratégie lui permet de négocier librement ses 
+contrats sans divulguer sa flexibilité tarifaire. 
+Son développement futur ne reposera pas sur un marketing grand public inadapté – dont le 
+site en construction et la vaste pollution homonymique sur les plateformes de notation sont les 
+symptômes manifestes – mais sur le renforcement continu de son réseau "B2B" tissé à travers 
+des interventions pédagogiques au plus près des dirigeants (Go-Entrepreneurs) et un maintien 
+irréprochable de ses standards techniques sous l'œil vigilant de la norme de dépollution NF X 
+31-620. L'enjeu à moyen terme pour Tell-us Ingénierie consistera à fidéliser ses donneurs 
+d'ordres actuels afin de générer des revenus récurrents, dans un marché où le foncier urbain 
+revalorisé est en passe de devenir l'une des ressources économiques les plus convoitées de la 
+décennie. 
+Sources des citations 
+1.​ TELL-US Ingénierie - Proxi-Connect, consulté le mai 11, 2026, 
+https://proxi-connect.com/EnviroPro%20Connect/societe/tell-us-ingenierie 
+2.​ Société TELL-US INGENIERIE à 49100 ANGERS - SIREN 894 862 416 | L'Annuaire 
+des Entreprises, consulté le mai 11, 2026, 
+https://annuaire-entreprises.data.gouv.fr/entreprise/tell-us-ingenierie-894862416 
+3.​ Siège social - TELL-US INGENIERIE à 49100 ANGERS - SIRET 894 862 416 00019 | 
+L'Annuaire des Entreprises, consulté le mai 11, 2026, 
+https://annuaire-entreprises.data.gouv.fr/etablissement/89486241600019 
+4.​ consulté le janvier 1, 1970, 
+https://www.societe.com/societe/tell-us-ingenierie-894862416.html 
+5.​ DÉCOUVERTE DU MÉTIER D'INGÉNIEUR SITES ET SOLS POLLUÉS - DUNE, consulté 
+le mai 11, 2026, 
+https://dune.univ-angers.fr/system/files/depots/23005524/2024TMCHI18383/1838
+3F.pdf 
+6.​ Travailler chez Tellus : avis récents sur Tellus | Indeed.com, consulté le mai 11, 
+2026, https://fr.indeed.com/cmp/Tellus/reviews 
+7.​ Working at Tellus: Employee Reviews | Indeed.com, consulté le mai 11, 2026, 
+https://www.indeed.com/cmp/Tellus/reviews 
+8.​ Tellus Recrutement : Opportunités d'Emploi et Carrière - Hellowork, consulté le 
+mai 11, 2026, https://www.hellowork.com/fr-fr/entreprises/tellus-168493.html 
+9.​ Tellus : carrières et emplois | Indeed.com, consulté le mai 11, 2026, 
+https://fr.indeed.com/cmp/Tellus 
+10.​Pierre SAUTOUR - GO Entrepreneurs, consulté le mai 11, 2026, 
+https://event.go-entrepreneurs.com/e/nantes2022/speaker/31ae1af0-9dd1-45a7-
+9d5a-69659510c990/pierre-sautour 
+11.​Tell-Us Ingénierie, consulté le mai 11, 2026, https://www.tell-us.fr/ 
+12.​Tell-us Ingénierie Angers - Bureaux d'études environnement (adresse, horaires), 
+consulté le mai 11, 2026, https://www.pagesjaunes.fr/pros/61218662 
+13.​Excavation, criblage, chaulage - Site de fabrication de matériaux isolants - 
+SelecDEPOL, consulté le mai 11, 2026, 
+https://selecdepol.fr/retours-experience/excavation-criblage-chaulage 
+14.​Sites et sols pollués - Apave, consulté le mai 11, 2026, 
+https://france.apave.com/Accompagnements-Apave/Sites-et-sols-pollues 
+15.​Sites et sols pollués | WSP, consulté le mai 11, 2026, 
+https://www.wsp.com/fr-fr/secteurs/fr-sites_et_sols_pollues 
+16.​Gestion des sites pollués - Ginger Burgeap, consulté le mai 11, 2026, 
+https://www.ginger-burgeap.com/nos-metiers/eau-energie-ville-et-territoire/gest
+ion-des-sites-pollues/ 
+17.​Guide sur les audits de certification Contexte sites et sols pollués - SSP-InfoTerre 
+- BRGM, consulté le mai 11, 2026, 
+https://ssp-infoterre.brgm.fr/sites/default/files/documents/2025-12/JT_SSP_2025__
+09h30__03__Guide_SFavereauxPOlivier_0.pdf 
+18.​Top 16 des Entreprises de Dépollution de Sols (SSP) en 2026 - Agence Oriflam, 
+consulté le mai 11, 2026, https://agence-oriflam.fr/entreprise-depollution-sols/ 
+19.​Siège social - TELL'US à 13100 AIX-EN-PROVENCE - SIRET 809 829 039 00027, 
+consulté le mai 11, 2026, 
+https://annuaire-entreprises.data.gouv.fr/etablissement/80982903900027 
+20.​Société TELL'US (TELL'US) à 13100 AIX-EN-PROVENCE - SIREN 809 829 039, 
+consulté le mai 11, 2026, 
+https://annuaire-entreprises.data.gouv.fr/entreprise/tell-us-tell-us-809829039 
+21.​Mapping to secure Construction & Civil Engineering - Tellus Environment, 
+consulté le mai 11, 2026, 
+https://tellus-environment.com/en/construction-and-civil-engineering/ 
+22.​Tellus Institute - For a Great Transition, consulté le mai 11, 2026, https://tellus.org/ 
+23.​Careers at Tellus, consulté le mai 11, 2026, https://www.tellusproducts.com/career 
+24.​Société GROUPE SIGMA à 59178 BRILLON - SIREN 879 868 206, consulté le mai 11, 
+2026, 
+https://annuaire-entreprises.data.gouv.fr/entreprise/groupe-sigma-879868206 
+25.​Société GIE SIGMA-XPER à 95240 CORMEILLES-EN-PARISIS - SIREN 919 736 439, 
+consulté le mai 11, 2026, 
+https://annuaire-entreprises.data.gouv.fr/entreprise/gie-sigma-xper-919736439 
+26.​Société GROUPE SIGMA à 72000 LE MANS - SIREN 511 171 969 | L'Annuaire des 
+Entreprises, consulté le mai 11, 2026, 
+https://annuaire-entreprises.data.gouv.fr/entreprise/groupe-sigma-511171969 
