@@ -1436,16 +1436,20 @@ button {
 
    .about-layout {
       grid-template-columns: 1fr;
-      text-align: center
+      text-align: left
+   }
+
+   .about-body p {
+      text-align: justify;
    }
 
    .about-photo {
       max-width: 340px;
-      margin: 0 auto
+      margin: 0 auto 30px auto
    }
 
    .values {
-      justify-content: center
+      justify-content: flex-start
    }
 
    .why-grid {
@@ -1464,6 +1468,20 @@ button {
 
    .section {
       padding: 72px 0
+   }
+
+   .hero {
+      padding-top: 100px;
+      padding-bottom: 40px;
+      align-items: flex-start;
+   }
+
+   .hero .container {
+      margin-top: 40px;
+   }
+
+   .nav-logo img {
+      max-height: 35px;
    }
 
    .nav-links {
